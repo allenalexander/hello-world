@@ -5,11 +5,13 @@ Hello! I’m Allen Alexander, a results-driven Business Analyst with a knack for
 In today’s fast-paced, data-driven world, I help businesses and professionals—whether data strategists, BI developers, or analytics enthusiasts—unlock the true potential of their data. My expertise spans stakeholder management, JAD sessions, sprint planning, requirement gathering, data visualization, and business intelligence.
 
 🎯 What Sets Me Apart?
+-----------------------------------------------
 ✔ AI-Savvy Professional – Conducted workshops on Generative AI tools to empower teams with the latest advancements.
 ✔ Strategic & Technical Blend – Bridging the gap between data insights and business decisions.
 ✔ Certified & Continuously Learning – Holding certifications in Business Analytics, Data Strategy, and Prompt Engineering to stay ahead of industry trends.
 
 💡 Tech & Soft Skills:
+-------------------------------------------------------
 🔹 Tools: Microsoft Excel |LLMS - ChatGPT, Perplexity,Claude AI| SQL | Tableau | Power BI | Python|JIRA
 🔹 Soft Skills: Client Engagement | Project Management | Business Process Improvement | Problem-Solving
 
