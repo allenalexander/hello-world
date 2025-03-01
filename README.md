@@ -1,5 +1,4 @@
 # about me
-Beginner repository
 
 Hello! I’m Allen Alexander, a results-driven Business Analyst with a knack for transforming complex data into strategic insights that fuel business growth. With 5+ years of experience across retail e-commerce, healthcare, and insurance, I bring a unique blend of business analysis, data analysis, and agile methodologies to the table.
 
